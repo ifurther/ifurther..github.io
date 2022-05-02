@@ -1,4 +1,5 @@
-baseURL = 'https://ifurther.github.io'
+baseURL = 'https://ifurther.github.io/'
 languageCode = 'en-us'
 title = "ifurther's Site"
 theme = "ananke"
+hasCJKLanguage = true
